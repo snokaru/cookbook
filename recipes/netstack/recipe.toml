@@ -1,5 +1,5 @@
 [source]
-git = "https://gitlab.redox-os.org/redox-os/netstack.git"
+git = "https://github.com/snokaru/netstack.git"
 
 [build]
 template = "cargo"

@@ -1,1 +1,1 @@
-GIT=https://gitlab.redox-os.org/redox-os/netstack.git
+GIT=https://github.com/snokaru/netstack.git

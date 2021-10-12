@@ -1,2 +1,2 @@
-GIT=https://gitlab.redox-os.org/redox-os/netutils.git
+GIT=https://github.com/snokaru/netutils
 BRANCH=redox-unix
